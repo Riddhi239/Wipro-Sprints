@@ -1,0 +1,71 @@
+/*Header Section*/
+.container{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0;
+    border: 1px solid black;
+  }
+  .img img
+  {
+     height: 150px;
+     width: 240px;
+  }
+  nav ul li
+  {
+    list-style: none;
+    display: inline;
+    font-size: 28px;
+    font-family: 'Monotype Corsiva';
+    color: blue;
+    
+  }
+  nav ul{
+  
+    margin-left: 40%;
+  }
+  /*Header Section End*/
+  
+  /*Home Section*/
+  .home .hori-img span img{
+  
+      height: 200px;
+      width: 300px;
+      border-radius: 5px;
+      border: 1px solid blue;
+      margin-left: 5px;
+      margin-bottom: 150px;
+      
+  }
+  .home h1{
+    font-size: 32px;
+  }
+  /*Home Section End*/
+  
+  /*About Section Start*/
+  .about h1{
+    font-size: 32px;
+  }
+  .about{
+    margin-bottom: 250px;
+  }
+  /*About Section end*/
+  
+  /*Contact Section start*/
+  .contact{
+  margin-bottom: 150px;
+  }
+  /*Contact Section End*/
+  
+  /*Footer Section Start*/
+  .footer
+  {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+    font-size: 20px;
+    height: 80px;
+    padding: 1px;
+    background-color: blue;
+    color: white;
+  }
+  /*Footer Section End*/
