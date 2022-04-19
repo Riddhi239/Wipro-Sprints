@@ -1,0 +1,72 @@
+/*Header Section*/
+.container{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 0;
+    
+  }
+  .img img
+  {
+    height: 420px;
+    width:fit-content;
+    border: 1px solid black;
+    
+  
+  }
+  nav ul li
+  {
+    display: inline;
+    font-size: 18px;
+    color: blue;
+    
+    
+  }
+  nav ul{
+  
+    margin-left: 40%;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  /*Header Section End*/
+  
+  /*Home Section*/
+  .home .hori-img span img{
+  
+      height: 180px;
+      width: 200px;
+      border-radius: 5px;
+      border: 1px solid black;
+      margin-left: 5px;
+      margin-bottom: 150px;
+      
+  }
+  .home h1{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 150px;
+    font-size: 32px;
+  }
+  /*Home Section End*/
+  
+  /*About Section Start*/
+  .about h1 p{
+    margin-left: 100px;
+    margin-right: 100px;
+    
+  }
+  .about{
+    margin-bottom: 250px;
+  }
+  /*About Section end*/
+  
+  /*Contact Section start*/
+  .contact h1 ul li{
+    margin-left: 100px;
+    margin-right: 100px;
+  margin-bottom: 150px;
+  font-size: 23px;
+  }
+  /*Contact Section End*/
+  
+  
